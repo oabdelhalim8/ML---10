@@ -1,1 +1,1 @@
-ML project (transfer learning - faster optimizers - Learning Rate Scheduling) (Fashion-MNIST)
+ML project (transfer learning - faster optimizers - Learning Rate Scheduling - regularization) (Fashion-MNIST)
